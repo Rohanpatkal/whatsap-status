@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">whatsapp-gallery</string>
+    <string name="title_activity_main">whatsapp-gallery</string>
+    <string name="package_name">com.example.whatsappgallery</string>
+    <string name="custom_url_scheme">com.example.whatsappgallery</string>
+</resources>
